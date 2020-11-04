@@ -1,0 +1,10 @@
+a:hover {
+        background-color: blue;
+        color: red;
+        transition: all 1s;
+}
+
+a {
+    letter-spacing: 1px;
+    word-spacing: 10px;
+}
